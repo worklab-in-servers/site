@@ -1,5 +1,10 @@
 ## Добро пожаловать на страницу обновлений! ##
 
+## Навигатор: ##
+### [Скриншоты](https://worklab-in-servers.github.io/site/screenshots/) | [Новости](https://worklab-in-servers.github.io/site/) | [Обновления](https://worklab-in-servers.github.io/site/updates/) ###
+
+---
+
 ### Последняя информация об обновлениях: ###
 
 ---
